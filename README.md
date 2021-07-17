@@ -1,4 +1,4 @@
-# Projekti në lënden : Siguria e të Dhënave
+# Projekti në lënden : Rrjetat Kompjuterike
 
 ## Përmbajtja e Projektit
 Softueri i përdorur gjatë implementimit është Cisco Packet Tracer.
